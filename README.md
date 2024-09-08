@@ -5,7 +5,7 @@ this is my custom "Frank" Toolhead that many have been asking about.
  required. 
 This toolhead was designed to meet the design requirement of my printed which i call "Voron Frankenstein". I could not think of a cooler name for the tool head other than "FRANK" so that what im calling it for now lol. I've added all the step files to this repository and encourage anyone to iterate on this design to meet there specific build requirement.   
 # Print_requirements 
- At this time, none of the stl files are oriented in optimal print positions sorry about that. you will need to orientate models to best suit your printer
+ At this time, none of the stl files are oriented in optimal print positions, im sorry about that. You will need to orientate models to best suit your printer.
  I followed the print requirements of the voron build for printed parts
  
 3D PRINTING PROCESS
