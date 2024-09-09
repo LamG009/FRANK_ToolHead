@@ -72,5 +72,10 @@ The Extruder driver cooling fan(3010) only mounts to the right rear cover. thoug
 
 ![PXL_20240717_013503916](https://github.com/user-attachments/assets/a2dbd077-b394-43e2-836f-aedfbcca220d)
 
+There are 2 part cooling fan duct options 1 for a 5015 fan and one for a CPAP hose 
+
+![5015_PCF_Duct](https://github.com/user-attachments/assets/8e7868ac-4240-4b8f-aac5-7d90a8ef3ad0)
+
+![CPAP_PCF_Duct](https://github.com/user-attachments/assets/911a6018-fc62-4f84-83cd-4663b0a348d5)
 
 
